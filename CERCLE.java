@@ -7,6 +7,8 @@ public class Cercle{
  x=xx;
  y=yy;
  }
+<<<<<<< HEAD
 
 //rama main
+//master
 }
